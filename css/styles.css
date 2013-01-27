@@ -4,7 +4,7 @@ body {
   font-size: 13px;
   margin: 0;
   padding: 0;
-  width: 300px;
+  width: 350px;
 }
 
 #query {
@@ -24,4 +24,9 @@ body {
   text-align: right,
   margin-right: 4px;
   margin-top: 4px;
+}
+
+#searchsub {
+  height: 12px;
+  padding: 2px;
 }
